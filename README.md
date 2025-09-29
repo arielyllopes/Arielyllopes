@@ -15,17 +15,18 @@
 <p align="center">Sou estudante de Ciência da Computação na UNINASSAU e estou em formação para me tornar Desenvolvedora FullStack. Procuro constantemente aprofundar meus conhecimentos em tecnologias web, banco de dados e boas práticas de desenvolvimento. Tenho paixão por aprender, resolver problemas e transformar ideias em soluções criativas e funcionais. Estou aberta a oportunidades que me permitam evoluir e crescer profissionalmente na área de tecnologia.
   
 #
-<br>
-      
-<div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&font=Iosevka&langs_count=16&theme=omni"/>
-  <br>
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=omni"/>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arielyllopes&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arielyllopes&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arielyllopes&theme=jolly&utcOffset=8) |
+| :-: | :-: | :-: |
 
 
-  
+
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arielyllopes&theme=jolly). | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arielyllopes%2FArielyllopes&theme=jolly&hide_border=verdadeiro&short_numbers=falso)](https://git.io/streak-stats)
+
+
+
+
   //icones gostei mais
 </div>
 
@@ -47,8 +48,6 @@
 </div>
 
 
-
-
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
@@ -57,8 +56,30 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mari4souza/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/bytellopes_/)
 
-
 <h3 align="left">My Stack</h3>
+
+//o meu
+<br>
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+  [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=FF00F6)](mailto:arielylopesb16@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
+  [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF00F6)](https://www.instagram.com/bytellopes_/).
+  [![Discord](https://img.shields.io/badge/Discord-6e3a5d?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mari4souza/)
+  
+</div>
+
+
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
