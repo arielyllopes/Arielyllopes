@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=E39FF6"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF00F6"/>
 
 <div align="center">
   <b>プログラマ</b>
@@ -124,3 +124,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arielyllopes/Arielyllopes/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arielyllopes/Arielyllopes/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00F6&height=100&section=footer"/>
