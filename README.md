@@ -20,7 +20,7 @@
 | :-: | :-: | :-: |
 
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arielyllopes&theme=jolly). 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arielyllopes&theme=jolly)
 
 #
 
