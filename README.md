@@ -21,7 +21,6 @@
 
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arielyllopes&theme=jolly). 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arielyllopes%2FArielyllopes&theme=jolly&hide_border=verdadeiro&short_numbers=falso)](https://git.io/streak-stats)
 
 #
 
