@@ -12,7 +12,7 @@
 
 #
 
-<p align="center">Sou estudante de Ciência da Computação na UNINASSAU e estou em formação para me tornar Desenvolvedora FullStack. Procuro constantemente aprofundar meus conhecimentos em tecnologias web, banco de dados e boas práticas de desenvolvimento. Tenho paixão por aprender, resolver problemas e transformar ideias em soluções criativas e funcionais. Estou aberta a oportunidades que me permitam evoluir e crescer profissionalmente na área de tecnologia.
+<p align="center">Sou estudante de Ciência da Computação e estou em formação para me tornar Desenvolvedora FullStack. Procuro constantemente aprofundar meus conhecimentos em tecnologias web, banco de dados e boas práticas de desenvolvimento. Tenho paixão por aprender, resolver problemas e transformar ideias em soluções criativas e funcionais. Estou aberta a oportunidades que me permitam evoluir e crescer profissionalmente na área de tecnologia.
   
 #
 
